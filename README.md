@@ -22,7 +22,8 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+    Rails::Real::Email.email_is_real?('email')
+  It will return true or false
 
 ## Development
 
